@@ -1,1 +1,3 @@
-# Tugas7_-CarollineDjulianaA-
+# ex
+-- 
+latihan radme
